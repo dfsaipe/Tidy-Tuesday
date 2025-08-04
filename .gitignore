@@ -1,0 +1,9 @@
+# renv cache folder (not needed in repo)
+renv/library/
+renv/python/
+renv/staging/
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
