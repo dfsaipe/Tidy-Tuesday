@@ -9,3 +9,5 @@ renv/staging/
 .RData
 .Ruserdata
 .Rproj.user/
+
+2025/__pycache__
